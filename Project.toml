@@ -1,0 +1,7 @@
+name = "SyntaxTrees"
+uuid = "99d6441e-850f-4ef7-9e75-3c06ab1a775d"
+authors = ["Unknown "]
+version = "0.1.0"
+
+[deps]
+CanonicalTraits = "a603d957-0e48-4f86-8fbd-0b7bc66df689"
